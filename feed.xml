@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Netli Ex</title>
+    <link href="https://megamind-cb4c1.web.app/feed.xml" rel="self" />
+    <link href="https://megamind-cb4c1.web.app" />
+    <updated>2021-07-08T15:20:31+05:30</updated>
+    <author>
+        <name>netlifex</name>
+    </author>
+    <id>https://megamind-cb4c1.web.app</id>
+
+    <entry>
+        <title>Third Post On My Publii</title>
+        <author>
+            <name>netlifex</name>
+        </author>
+        <link href="https://megamind-cb4c1.web.app/third-post-on-my-publii.html"/>
+        <id>https://megamind-cb4c1.web.app/third-post-on-my-publii.html</id>
+
+        <updated>2021-07-08T15:20:31+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://megamind-cb4c1.web.app/media/posts/3/Penguins.jpg" alt="" />
+                     Open the Publii app and click on the Server option in the left-sidebar to open the Server Settings screen. Set the Domain to your Netlify URL we saw in the previous section (yourSitename.netlify.com); don't forget to choose https:// from the drop-down list. Enter the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://megamind-cb4c1.web.app/media/posts/3/Penguins.jpg" alt="" />
+                
+  <p>
+    Open the Publii app and click on the Server option in the left-sidebar to open the Server Settings screen.
+<br>Set the Domain to your Netlify URL we saw in the previous section (yourSitename.netlify.com); don't forget to choose https:// from the drop-down list.
+<br>Enter the string of characters from the API ID of your Netlify site into the Site ID field.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Second Post On Publii</title>
+        <author>
+            <name>netlifex</name>
+        </author>
+        <link href="https://megamind-cb4c1.web.app/second-post-on-publii.html"/>
+        <id>https://megamind-cb4c1.web.app/second-post-on-publii.html</id>
+
+        <updated>2021-07-08T11:20:44+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://megamind-cb4c1.web.app/media/posts/2/Lighthouse.jpg" alt="" />
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget gravida cum sociis natoque. Adipiscing diam donec adipiscing tristique. Faucibus pulvinar elementum integer enim neque volutpat. Tortor at risus viverra adipiscing at in tellus.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://megamind-cb4c1.web.app/media/posts/2/Lighthouse.jpg" alt="" />
+                
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget gravida cum sociis natoque. Adipiscing diam donec adipiscing tristique. Faucibus pulvinar elementum integer enim neque volutpat. Tortor at risus viverra adipiscing at in tellus. Justo eget magna fermentum iaculis eu. Interdum velit euismod in pellentesque massa. Venenatis tellus in metus vulputate eu scelerisque felis. Sed viverra tellus in hac habitasse platea. Purus in mollis nunc sed id semper. Non tellus orci ac auctor augue mauris augue neque gravida. At augue eget arcu dictum varius duis. Dui vivamus arcu felis bibendum ut tristique et egestas. Elit eget gravida cum sociis natoque penatibus et magnis. Tempus urna et pharetra pharetra massa massa ultricies mi.
+<br>
+<br>Libero id faucibus nisl tincidunt eget nullam non. Leo in vitae turpis massa sed elementum tempus egestas. Morbi enim nunc faucibus a. Sed ullamcorper morbi tincidunt ornare massa eget egestas purus. Enim nec dui nunc mattis. Feugiat vivamus at augue eget arcu dictum varius duis at. Consectetur adipiscing elit ut aliquam purus. Vel turpis nunc eget lorem dolor. Nunc sed blandit libero volutpat sed cras ornare arcu dui. Mauris in aliquam sem fringilla ut morbi. Viverra nam libero justo laoreet sit.
+<br>
+<br>In nisl nisi scelerisque eu ultrices. In tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Massa massa ultricies mi quis hendrerit. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Scelerisque felis imperdiet proin fermentum leo vel orci. Suscipit adipiscing bibendum est ultricies integer quis auctor elit sed. Augue neque gravida in fermentum et sollicitudin ac orci. In eu mi bibendum neque egestas congue quisque. Facilisis gravida neque convallis a cras semper auctor. Pellentesque sit amet porttitor eget dolor morbi non arcu. Semper quis lectus nulla at volutpat. Ornare quam viverra orci sagittis eu volutpat odio.
+<br>
+<br>Viverra justo nec ultrices dui sapien eget mi. Suspendisse potenti nullam ac tortor vitae purus. Tempus imperdiet nulla malesuada pellentesque elit eget. Felis eget velit aliquet sagittis id consectetur purus ut faucibus. Interdum varius sit amet mattis vulputate enim nulla. Ullamcorper a lacus vestibulum sed arcu. Sed tempus urna et pharetra pharetra massa. At in tellus integer feugiat. Tempus egestas sed sed risus pretium. Arcu risus quis varius quam. Convallis aenean et tortor at risus viverra. Diam phasellus vestibulum lorem sed. Viverra mauris in aliquam sem fringilla ut morbi tincidunt. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Nisl pretium fusce id velit. Netus et malesuada fames ac turpis egestas. Diam maecenas sed enim ut sem viverra aliquet.
+<br>
+<br>Hac habitasse platea dictumst quisque. Tellus at urna condimentum mattis pellentesque id nibh tortor id. Convallis a cras semper auctor neque vitae tempus quam. Nunc pulvinar sapien et ligula. Diam ut venenatis tellus in metus vulputate. Blandit massa enim nec dui nunc mattis. Viverra mauris in aliquam sem. Convallis a cras semper auctor neque vitae tempus. Dolor sit amet consectetur adipiscing elit ut aliquam purus sit. Non arcu risus quis varius quam quisque id diam. Consectetur purus ut faucibus pulvinar elementum integer enim. Ante metus dictum at tempor commodo ullamcorper. Id interdum velit laoreet id donec ultrices tincidunt. Sed faucibus turpis in eu mi bibendum neque egestas. Nibh tellus molestie nunc non blandit massa enim nec. Suscipit tellus mauris a diam. Ac feugiat sed lectus vestibulum mattis ullamcorper. Ut aliquam purus sit amet luctus. Egestas quis ipsum suspendisse ultrices gravida dictum fusce ut.
+  </p>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>First Post</title>
+        <author>
+            <name>netlifex</name>
+        </author>
+        <link href="https://megamind-cb4c1.web.app/first-post.html"/>
+        <id>https://megamind-cb4c1.web.app/first-post.html</id>
+
+        <updated>2021-07-08T11:19:43+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://megamind-cb4c1.web.app/media/posts/1/Desert.jpg" alt="" />
+                     Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget gravida cum sociis natoque. Adipiscing diam donec adipiscing tristique. Faucibus pulvinar elementum integer enim neque volutpat. Tortor at risus viverra adipiscing at in tellus.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://megamind-cb4c1.web.app/media/posts/1/Desert.jpg" alt="" />
+                
+  <p>
+    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Eget gravida cum sociis natoque. Adipiscing diam donec adipiscing tristique. Faucibus pulvinar elementum integer enim neque volutpat. Tortor at risus viverra adipiscing at in tellus. Justo eget magna fermentum iaculis eu. Interdum velit euismod in pellentesque massa. Venenatis tellus in metus vulputate eu scelerisque felis. Sed viverra tellus in hac habitasse platea. Purus in mollis nunc sed id semper. Non tellus orci ac auctor augue mauris augue neque gravida. At augue eget arcu dictum varius duis. Dui vivamus arcu felis bibendum ut tristique et egestas. Elit eget gravida cum sociis natoque penatibus et magnis. Tempus urna et pharetra pharetra massa massa ultricies mi.
+<br>
+<br>Libero id faucibus nisl tincidunt eget nullam non. Leo in vitae turpis massa sed elementum tempus egestas. Morbi enim nunc faucibus a. Sed ullamcorper morbi tincidunt ornare massa eget egestas purus. Enim nec dui nunc mattis. Feugiat vivamus at augue eget arcu dictum varius duis at. Consectetur adipiscing elit ut aliquam purus. Vel turpis nunc eget lorem dolor. Nunc sed blandit libero volutpat sed cras ornare arcu dui. Mauris in aliquam sem fringilla ut morbi. Viverra nam libero justo laoreet sit.
+<br>
+<br>In nisl nisi scelerisque eu ultrices. In tellus integer feugiat scelerisque varius morbi enim nunc faucibus. Massa massa ultricies mi quis hendrerit. Nisi quis eleifend quam adipiscing vitae proin sagittis nisl rhoncus. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Scelerisque felis imperdiet proin fermentum leo vel orci. Suscipit adipiscing bibendum est ultricies integer quis auctor elit sed. Augue neque gravida in fermentum et sollicitudin ac orci. In eu mi bibendum neque egestas congue quisque. Facilisis gravida neque convallis a cras semper auctor. Pellentesque sit amet porttitor eget dolor morbi non arcu. Semper quis lectus nulla at volutpat. Ornare quam viverra orci sagittis eu volutpat odio.
+<br>
+<br>Viverra justo nec ultrices dui sapien eget mi. Suspendisse potenti nullam ac tortor vitae purus. Tempus imperdiet nulla malesuada pellentesque elit eget. Felis eget velit aliquet sagittis id consectetur purus ut faucibus. Interdum varius sit amet mattis vulputate enim nulla. Ullamcorper a lacus vestibulum sed arcu. Sed tempus urna et pharetra pharetra massa. At in tellus integer feugiat. Tempus egestas sed sed risus pretium. Arcu risus quis varius quam. Convallis aenean et tortor at risus viverra. Diam phasellus vestibulum lorem sed. Viverra mauris in aliquam sem fringilla ut morbi tincidunt. Sit amet consectetur adipiscing elit pellentesque habitant morbi tristique senectus. Nisl pretium fusce id velit. Netus et malesuada fames ac turpis egestas. Diam maecenas sed enim ut sem viverra aliquet.
+<br>
+<br>Hac habitasse platea dictumst quisque. Tellus at urna condimentum mattis pellentesque id nibh tortor id. Convallis a cras semper auctor neque vitae tempus quam. Nunc pulvinar sapien et ligula. Diam ut venenatis tellus in metus vulputate. Blandit massa enim nec dui nunc mattis. Viverra mauris in aliquam sem. Convallis a cras semper auctor neque vitae tempus. Dolor sit amet consectetur adipiscing elit ut aliquam purus sit. Non arcu risus quis varius quam quisque id diam. Consectetur purus ut faucibus pulvinar elementum integer enim. Ante metus dictum at tempor commodo ullamcorper. Id interdum velit laoreet id donec ultrices tincidunt. Sed faucibus turpis in eu mi bibendum neque egestas. Nibh tellus molestie nunc non blandit massa enim nec. Suscipit tellus mauris a diam. Ac feugiat sed lectus vestibulum mattis ullamcorper. Ut aliquam purus sit amet luctus. Egestas quis ipsum suspendisse ultrices gravida dictum fusce ut.
+  </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
